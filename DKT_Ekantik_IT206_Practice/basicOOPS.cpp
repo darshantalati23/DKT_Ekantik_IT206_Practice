@@ -11,7 +11,7 @@ public:
 
 int main() {
     Student s1;
-    s1.name = "Akshar";
+    s1.name = "Akshar"; 
     s1.rno = 51;
     s1.cpi = 9.58;
     s1.mks={91, 99, 98, 94, 93};
